@@ -1,4 +1,4 @@
+-- AND NOT
 SELECT * 
 FROM Customers
-WHERE Country IN (SELECT Country 
-                FROM Suppliers);
+WHERE NOT Country = 'Germany' AND NOT Country = 'USA';
