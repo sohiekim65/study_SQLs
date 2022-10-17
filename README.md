@@ -7,3 +7,4 @@
 - [not_and sohiekim](./sohiekim/w3schools/where_and_not.sql)
 ### Employees_Order_total 
 - [Employees_Order_total sohiekim](./sohiekim/w3schools/Employees_Order_totals.sql)
+- [Employees_Order_total jhun1020](./jhun1020/w3schools/Employees_Order_totals.sql)
