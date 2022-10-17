@@ -8,3 +8,6 @@
 ### Employees_Order_total 
 - [Employees_Order_total sohiekim](./sohiekim/w3schools/Employees_Order_totals.sql)
 - [Employees_Order_total jhun1020](./jhun1020/w3schools/Employees_Order_totals.sql)
+### Categories_Products_totals
+
+- [Categories_Products_totals](./sohiekim/w3schools/Categories_Products_total.sql)
