@@ -16,5 +16,5 @@
 - [CategoryName_Products sohiekim](./sohiekim/w3schools/CategoryName_Products.sql)
 ### CategoryName_Products_Order.sql
 
-- [CategoryName_Products_Order.sql](./jhun1020/w3schools/CategoryName_Products_Order.sql)
+- [CategoryName_Products_Order.sql jhun1020](./jhun1020/w3schools/CategoryName_Products_Order.sql)
 
