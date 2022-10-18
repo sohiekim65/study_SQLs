@@ -2,13 +2,13 @@
 
 SELECT SUM(Price)  --  합계 = 390.34 
 WHERE CategoryID IN(SELECT CategoryID
-			FROM Categories
-			WHERE CategoryName IN ('Dairy Products', 'Seafood') )
+			    FROM Categories
+			    WHERE CategoryName IN ('Dairy Products', 'Seafood') )
 AND Price BETWEEN 10 AND 50;
 
 SELECT AVG(Price)  --  평균 = 24.396250
 FROM Products
 WHERE CategoryID IN(SELECT CategoryID
-			FROM Categories
-			WHERE CategoryName IN ('Dairy Products', 'Seafood') )
+			    FROM Categories
+			    WHERE CategoryName IN ('Dairy Products', 'Seafood') )
 AND Price BETWEEN 10 AND 50;
