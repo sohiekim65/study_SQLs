@@ -9,4 +9,4 @@ WHERE OrderID IN(SELECT OrderID
 									WHERE CategoryID IN(SELECT CategoryID
 														FROM Categories
        													WHERE CategoryName IN('Dairy Products', 'Seafood'))
-									AND Price BETWEEN 10 AND 50));
+									AND Price BETWEEN 10.00 AND 50.00));
