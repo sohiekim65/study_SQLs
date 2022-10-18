@@ -1,5 +1,5 @@
 -- + 7 : CategoryName 가 Dairy Products, Seafood이고 Price 10.00이상 50.00이하인 주문  OrderID 내역과 총 갯수는 ?   =  482
-SELECT DISTINCT OrderID
+SELECT OrderID
 FROM OrderDetails
 WHERE ProductID IN (SELECT ProductID
 			        FROM Products
