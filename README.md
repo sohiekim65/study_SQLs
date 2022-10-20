@@ -23,3 +23,6 @@
 ### Products_HAVING.sql
 - [Products_HAVING sohiekim](./sohiekim/w3schools/Products_HAVING.sql)
 - [Products_HAVING jhun1020](./jhun1020/w3schools/Products_HAVING.sql)
+### Users_Auth_names.sql
+
+- [Users_Auth_names sohiekim](./sohiekim/w3schools/Users_Auth_names.sql)
